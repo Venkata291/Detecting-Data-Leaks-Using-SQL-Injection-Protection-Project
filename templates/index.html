@@ -1,0 +1,50 @@
+html
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Data Leak Protection System</title>
+</head>
+
+<body>
+
+<h1>Detecting Data Leaks Using SQL Injection Protection</h1>
+
+<form method="POST">
+
+<label>Username</label>
+<br>
+<input type="text" name="username">
+
+<br><br>
+
+<label>Sensitive Data</label>
+<br>
+<input type="text" name="secret_data">
+
+<br><br>
+
+<label>Role</label>
+<br>
+
+<select name="role">
+<option>Admin</option>
+<option>User</option>
+<option>Auditor</option>
+</select>
+
+<br><br>
+
+<button type="submit">
+Submit
+</button>
+
+</form>
+
+<br>
+
+{{ message }}
+
+</body>
+</html>
+
