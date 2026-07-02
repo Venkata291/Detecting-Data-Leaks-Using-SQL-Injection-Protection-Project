@@ -259,16 +259,16 @@ Admin
 
 # Result
 
-Data Stored Successfully
-AES-256 Encryption Enabled
-SQL Injection Protection Enabled
+- Data Stored Successfully
+- AES-256 Encryption Enabled
+- SQL Injection Protection Enabled
 
 # Author
 
 **Venkata Saibabu Kalluri**
--Python | Flask | PostgreSQL | AWS EC2 | Cyber Security
--Detecting-Data-Leaks-Using-SQL-Injection-Protection
--Cloud Computing Internship Project
+- Python | Flask | PostgreSQL | AWS EC2 | Cyber Security
+- Detecting-Data-Leaks-Using-SQL-Injection-Protection
+- Cloud Computing Internship Project
 
 # License
 
