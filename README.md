@@ -257,28 +257,32 @@ Password123
 Role
 Admin
 
-#Result
+# Result
 
 Data Stored Successfully
 AES-256 Encryption Enabled
 SQL Injection Protection Enabled
 
-#Author
+# Author
 
 **Venkata Saibabu Kalluri**
 -Python | Flask | PostgreSQL | AWS EC2 | Cyber Security
 -Detecting-Data-Leaks-Using-SQL-Injection-Protection
 -Cloud Computing Internship Project
 
-#License
+# License
 
-This project is created for educational and academic purposes to demonstrate secure web application development techniques against SQL Injection attacks using encryption and cloud deployment.* Python Community
+This project is created for educational and academic purposes to demonstrate secure web application development techniques against SQL Injection attacks using encryption and cloud deployment.
+
+* Python Community
 * Flask Framework
 * PostgreSQL
 * Cryptography Library
 * AWS EC2
 * Open Source Community
-#Acknowledgements
+  
+# Acknowledgements
+
 Python Community
 Flask Framework
 PostgreSQL
