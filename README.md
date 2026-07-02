@@ -283,9 +283,9 @@ This project is created for educational and academic purposes to demonstrate sec
   
 # Acknowledgements
 
-Python Community
-Flask Framework
-PostgreSQL
-Cryptography Library
-AWS EC2
-Open Source Community
+* Python Community
+* Flask Framework
+* PostgreSQL
+* Cryptography Library
+* AWS EC2
+* Open Source Community
