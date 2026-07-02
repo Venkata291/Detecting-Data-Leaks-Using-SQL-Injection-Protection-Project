@@ -70,9 +70,11 @@ Sai_SQLI_Project/
 ├── venv/
 │
 └── README.md
+```
 
 
 # System Architecture
+```text
 
 
                     +----------------------+
@@ -127,7 +129,7 @@ Sai_SQLI_Project/
                      | Security Validation Report   |
                      | validate_security.py         |
                      +------------------------------+
-
+```
 
 
 # Workflow
@@ -263,8 +265,10 @@ SQL Injection Protection Enabled
 #Author
 
 Venkata Saibabu Kalluri
-
 Python | Flask | PostgreSQL | AWS EC2 | Cyber Security
+Detecting-Data-Leaks-Using-SQL-Injection-Protection
+Cloud Computing Internship Project
+
 
 #License
 
